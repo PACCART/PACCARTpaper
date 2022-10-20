@@ -16,7 +16,7 @@ The agent environment can be ran through the Unity editor. `DisputeRenderer.cs` 
 
 ![Example Dispute.](/fig1.png "This is an Example Dispute.")
 
-*Figure 1. Example Dispute with one argument in favor of the subject (e.g., record a passerby for security reasons as they might be a thief) and two counterarguments (e.g., 'the passerby is no  thief as they regularly jog by based on doctor's orders' or 'the passerby is no thief as they are very rich'* 
+*Figure 1. Example Dispute with one argument in favor of the subject (e.g., record a passerby for security reasons as they might be a thief) and two counterarguments (e.g., 'the passerby is no  thief as they regularly jog by based on doctor's orders' or 'the passerby is no thief as they are very rich')* 
 
 ## Classes
 
