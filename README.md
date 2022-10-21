@@ -24,6 +24,6 @@ An overview of the structure of the PACCART classes is given in Figure 2.
 
 ![PACCART Classes.](/fig2.png "PACCART Classes.")
 
-*Figure 1. PACCART Classes.*
+*Figure 2. PACCART Classes.*
 
 The system holds the necessary classes such as an Agent class, Dispute class, and a Knowledge Base class. It also contains classes for Rules, Premises and Contraries. The entire system is controlled from an Environment class, which initializes a dispute between multiple agents and allows them to extend the dispute in turns. Handcrafted scenarios which are used for additional validation for our research are stored in a Scenarios class. Finally, for each of the PACCART components (called modules in the implementation, see Modules class) experiments are simulated, which are controlled through the Experiments class and evaluated through the Metrics class. Data is stored and fetched through serialization, which has classes for both JSON objects and CSV files.
