@@ -1,11 +1,24 @@
 # PACCART: Reinforcing Trust in Multiuser Privacy Agreement Systems
+_**Daan Di Scala, Pinar Yolum**_
 
-This implementation is part of our paper *"PACCART: Reinforcing Trust in Multiuser Privacy Agreement Systems".*
+
+### Links
+ArXiV paper: https://arxiv.org/abs/2302.13650 <br>
+AAMAS23 paper: TBA <br>
+COINE23 paper: https://coin-workshop.github.io/coine-2023-london/Papers/Paper-2.pdf <br>
+Conference poster: https://raw.githubusercontent.com/PACCART/PACCARTpaper/master/AAMAS%20Poster%20Picture.png
+
+
+
+This repository is part of our paper *"PACCART: Reinforcing Trust in Multiuser Privacy Agreement Systems".*
 
 ### Abstract
 Collaborative systems, such as Online Social Networks and the Internet of Things, enable users to share privacy sensitive content. Content in these systems is often co-owned by multiple users with different privacy expectations, leading to possible multiuser privacy conflicts. In order to resolve these conflicts, various agreement mechanisms have been designed and agents that could participate in such mechanisms have been proposed. However, research shows that users hesitate to use software tools for managing their privacy. To remedy this, we argue that users should be supported by trustworthy agents that adhere to the following criteria: (i) concealment of privacy preferences, such that only necessary information is shared with others, (ii) equity of treatment, such that different kinds of users are supported equally, (iii) collaboration of users, such that a group of users can support each other in agreement and (iv) explainability of actions, such that users know why certain information about them was shared to reach a decision. Accordingly, this paper proposes PACCART, an open-source agent that satisfies these criteria. Our experiments over simulations and user study indicate that PACCART increases user trust significantly.  
 
 ### Running Example
+
+![Running Example.](/fig0.png "Running Example.")
+
 
 Consider the following running example: Alice has a car which is fitted with a security camera and Bob runs past it while wearing a smartwatch. The camera and smartwatch are both equipped with digital personal assistants that represent their users’ desires about privacy issues. Alice’s agent is instructed to record any, possibly suspicious, behavior, while Bob does not want to be recorded. The agents have a dispute by providing arguments on whether or not to record. Eventually, Bob’s agent convinces Alice’s agent that he is not suspicious and thus the camera does not record any movement. 
 
