@@ -4,7 +4,7 @@ _**Daan Di Scala, Pinar Yolum**_
 
 ### Links
 ArXiV paper: https://arxiv.org/abs/2302.13650 <br>
-AAMAS23 paper: TBA <br>
+AAMAS23 paper: https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p2787.pdf <br>
 COINE23 paper: https://coin-workshop.github.io/coine-2023-london/Papers/Paper-2.pdf <br>
 Conference poster: https://raw.githubusercontent.com/PACCART/PACCARTpaper/master/AAMAS%20Poster%20Picture.png
 
